@@ -1,0 +1,11 @@
+﻿@model bookweb.Models.Book
+
+<h2>Book Details</h2>
+
+<img src="~/Content/ImageBooks/@Model.Image" width="200" />
+
+<p><b>Title:</b> @Model.Title</p>
+<p><b>Price:</b> @Model.Price</p>
+<p><b>Category:</b> @Model.Category.CategoryName</p>
+
+<a asp-action="Index">Back</a>
