@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Add Product</title>
+</head>
+<body>
+    <h2>Add Product</h2>
+
+    <select id="categorySelect"></select>
+
+    <form id="productForm" enctype="multipart/form-data">
+        <input type="text" name="Name" placeholder="Product Name" required>
+        <input type="number" name="Price" placeholder="Price" required>
+        <input type="file" name="Image" required>
+        <button type="submit">Add</button>
+    </form>
+
+    <script>
+        // Load categories
+        fetch("/api/categories")
+        .then(res => res.json())
+        .then(data => {
+            const select = document.getElementById("categorySelect");
+            data.forEach(c => {
+                const option = document.createElement("option");
+                option.value = c.id;
+                option.text = c.name;
+                select.add(option);
+            });
+        });
+
+        // Submit product form
+        document.getElementById("productForm").addEventListener("submit", function(e){
+            e.preventDefault();
+            const formData = new FormData(this);
+            // Thêm categoryId từ select
+            formData.set("CategoryId", document.getElementById("categorySelect").value);
+
+            fetch("/api/products", {
+                method: "POST",
+                body: formData
+            })
+            .then(res => res.json().then(data => ({status: res.status, body: data})))
+            .then(result => {
+                if(result.status >= 200 && result.status < 300)
+                    alert("Product added successfully!");
+                else
+                    alert("Error: " + JSON.stringify(result.body));
+            })
+            .catch(err => alert("Error: " + err));
+        });
+    </script>
+</body>
+</html>

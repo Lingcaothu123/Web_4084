@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\webapplication3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\models\\product.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\product.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\models\\category.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\category.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\service\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\service\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\repositories\\categoryrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\repositories\\categoryrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\controllers\\categorycontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\categorycontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\service\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\service\\ibrandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\dto\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\dto\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\dto\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\wwwroot\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "product.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\wwwroot\\product.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\product.cshtml",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\wwwroot\\product.cshtml",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T05:13:36.086Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplication3",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+              "RelativeToolTip": "WebApplication3\\WebApplication3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T01:02:18.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:27:05.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Category.cs.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Category.cs.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Category.cs.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Category.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:27:02.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Car.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:27:02.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Brand.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:27:01.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:27:00.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA8wBUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:17:45.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeToolTip": "WebApplication3\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwDwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T04:58:55.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Product.cs.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\Product.cs.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Product.cs.cs",
+              "RelativeToolTip": "WebApplication3\\Models\\Product.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T09:27:03.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\DTO\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\CreateProductDto.cs",
+              "RelativeToolTip": "WebApplication3\\DTO\\CreateProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:02:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryController .cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Controllers\\CategoryController .cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\CategoryController .cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Controllers\\CategoryController .cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\CategoryController .cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAnwBEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:11:34.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryRepository .cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Repositories\\CategoryRepository .cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repositories\\CategoryRepository .cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Repositories\\CategoryRepository .cs",
+              "RelativeToolTip": "WebApplication3\\Repositories\\CategoryRepository .cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:02:46.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\BrandService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Service\\BrandService.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\BrandService.cs",
+              "RelativeToolTip": "WebApplication3\\Service\\BrandService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:44:47.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\DTO\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\CategoryDto.cs",
+              "RelativeToolTip": "WebApplication3\\DTO\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:02:40.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BrandDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\BrandDto.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\DTO\\BrandDto.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\BrandDto.cs",
+              "RelativeToolTip": "WebApplication3\\DTO\\BrandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:18:07.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IBrandService.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\IBrandService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Service\\IBrandService.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\IBrandService.cs",
+              "RelativeToolTip": "WebApplication3\\Service\\IBrandService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:43:21.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\CategoryService.cs",
+              "RelativeToolTip": "WebApplication3\\Service\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:09:23.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Service\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "WebApplication3\\Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:09:24.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "WebApplication3\\Data\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:02:40.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\DTO\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\ProductDto.cs",
+              "RelativeToolTip": "WebApplication3\\DTO\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:02:43.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebApplication3\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T05:02:50.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T04:57:51.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
