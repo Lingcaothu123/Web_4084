@@ -1,60 +1,64 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admins\\Downloads\\ProductApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF106216-3EE0-48BB-B0FA-46F34C6DF485}|..\\CallAPI\\CallAPI.csproj|c:\\users\\admins\\downloads\\callapi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admins\\Downloads\\CallAPI\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF106216-3EE0-48BB-B0FA-46F34C6DF485}|..\\CallAPI\\CallAPI.csproj|c:\\users\\admins\\downloads\\callapi\\wwwroot\\js\\brand.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\videos\\web_linh4084\\productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|solutionrelative:productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF106216-3EE0-48BB-B0FA-46F34C6DF485}|..\\CallAPI\\CallAPI.csproj|c:\\users\\admins\\downloads\\callapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF106216-3EE0-48BB-B0FA-46F34C6DF485}|..\\CallAPI\\CallAPI.csproj|c:\\users\\admins\\downloads\\callapi\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admins\\Downloads\\CallAPI\\wwwroot\\js\\brand.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF106216-3EE0-48BB-B0FA-46F34C6DF485}|..\\CallAPI\\CallAPI.csproj|c:\\users\\admins\\downloads\\callapi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Home\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF106216-3EE0-48BB-B0FA-46F34C6DF485}|..\\CallAPI\\CallAPI.csproj|c:\\users\\admins\\downloads\\callapi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF106216-3EE0-48BB-B0FA-46F34C6DF485}|..\\CallAPI\\CallAPI.csproj|c:\\users\\admins\\downloads\\callapi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF106216-3EE0-48BB-B0FA-46F34C6DF485}|..\\CallAPI\\CallAPI.csproj|c:\\users\\admins\\downloads\\callapi\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admins\\Downloads\\CallAPI\\wwwroot\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF106216-3EE0-48BB-B0FA-46F34C6DF485}|..\\CallAPI\\CallAPI.csproj|c:\\users\\admins\\downloads\\callapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admins\\Downloads\\CallAPI\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\downloads\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admins\\Downloads\\CallAPI\\Properties\\launchSettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\downloads\\productapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\videos\\web_linh4084\\productapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\downloads\\productapi\\productapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\videos\\web_linh4084\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\videos\\web_linh4084\\productapi\\productapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|solutionrelative:productapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\downloads\\productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\videos\\web_linh4084\\productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\downloads\\productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\videos\\web_linh4084\\productapi\\productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|solutionrelative:productapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\downloads\\productapi\\controllers\\product2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\videos\\web_linh4084\\productapi\\controllers\\product2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|solutionrelative:controllers\\product2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\downloads\\productapi\\controllers\\productscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|c:\\users\\admins\\videos\\web_linh4084\\productapi\\controllers\\productscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42065095-720A-4023-A6CF-0F3B1B13CB48}|ProductApi.csproj|solutionrelative:controllers\\productscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -65,7 +69,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -89,12 +93,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "ProductApi",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\ProductApi.csproj",
+              "RelativeDocumentMoniker": "ProductApi.csproj",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\ProductApi.csproj",
+              "RelativeToolTip": "ProductApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-03T09:45:54.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "..\\CallAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CallAPI\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "..\\CallAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CallAPI\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAiwBIAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-02T00:42:20.867Z",
@@ -102,64 +119,60 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "brand.js",
               "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\wwwroot\\js\\brand.js",
-              "RelativeDocumentMoniker": "..\\CallAPI\\wwwroot\\js\\brand.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CallAPI\\wwwroot\\js\\brand.js",
               "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\wwwroot\\js\\brand.js",
-              "RelativeToolTip": "..\\CallAPI\\wwwroot\\js\\brand.js",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CallAPI\\wwwroot\\js\\brand.js",
               "ViewState": "AgIAALIAAAAAAAAAAAAiwL4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-02T00:39:23.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "..\\CallAPI\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "..\\CallAPI\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T00:36:07.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T00:39:23.428Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "..\\CallAPI\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "..\\CallAPI\\Views\\_ViewStart.cshtml",
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CallAPI\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CallAPI\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T00:36:03.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T00:36:07.518Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "..\\CallAPI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "..\\CallAPI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CallAPI\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CallAPI\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-02T00:34:50.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T00:36:03.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CallAPI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CallAPI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-02T00:34:50.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "..\\CallAPI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CallAPI\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "..\\CallAPI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CallAPI\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-02T00:34:30.412Z",
@@ -167,102 +180,95 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "app.js",
               "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\wwwroot\\js\\app.js",
-              "RelativeDocumentMoniker": "..\\CallAPI\\wwwroot\\js\\app.js",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CallAPI\\wwwroot\\js\\app.js",
               "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\wwwroot\\js\\app.js",
-              "RelativeToolTip": "..\\CallAPI\\wwwroot\\js\\app.js",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CallAPI\\wwwroot\\js\\app.js",
               "ViewState": "AgIAAPwAAAAAAAAAAAAmwAoBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-01-02T00:26:22.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "..\\CallAPI\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "..\\CallAPI\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-01-02T00:26:22.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T00:26:22.579Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CallAPI\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CallAPI\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-01-02T00:26:22.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\CallAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "..\\CallAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\CallAPI\\Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Admins\\Downloads\\CallAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "..\\CallAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\CallAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-02T00:24:53.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T00:24:53.918Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\ProductApi\\WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\Admins\\Downloads\\ProductApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\WeatherForecast.cs",
               "RelativeToolTip": "WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T00:24:30.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\ProductApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Admins\\Downloads\\ProductApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T00:24:22.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T00:24:30.172Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ProductApi.http",
-              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\ProductApi\\ProductApi.http",
-              "RelativeDocumentMoniker": "ProductApi.http",
-              "ToolTip": "C:\\Users\\Admins\\Downloads\\ProductApi\\ProductApi.http",
-              "RelativeToolTip": "ProductApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-01-02T00:24:06.774Z",
-              "EditorCaption": ""
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T00:24:22.03Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\ProductApi\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Admins\\Downloads\\ProductApi\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T00:24:04.734Z",
-              "EditorCaption": ""
+              "Title": "ProductApi.http",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\ProductApi.http",
+              "RelativeDocumentMoniker": "ProductApi.http",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\ProductApi.http",
+              "RelativeToolTip": "ProductApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-02T00:24:06.774Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T00:24:04.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ProductApi",
-              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\ProductApi\\ProductApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\ProductApi.csproj",
               "RelativeDocumentMoniker": "ProductApi.csproj",
-              "ToolTip": "C:\\Users\\Admins\\Downloads\\ProductApi\\ProductApi.csproj",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\ProductApi.csproj",
               "RelativeToolTip": "ProductApi.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-01-02T00:23:51.538Z",
@@ -270,24 +276,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Product2Controller.cs",
-              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\ProductApi\\Controllers\\Product2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\Controllers\\Product2Controller.cs",
               "RelativeDocumentMoniker": "Controllers\\Product2Controller.cs",
-              "ToolTip": "C:\\Users\\Admins\\Downloads\\ProductApi\\Controllers\\Product2Controller.cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\Controllers\\Product2Controller.cs",
               "RelativeToolTip": "Controllers\\Product2Controller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-02T00:23:49.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-02T00:23:49.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ProductsController .cs",
-              "DocumentMoniker": "C:\\Users\\Admins\\Downloads\\ProductApi\\Controllers\\ProductsController .cs",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\Controllers\\ProductsController .cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController .cs",
-              "ToolTip": "C:\\Users\\Admins\\Downloads\\ProductApi\\Controllers\\ProductsController .cs",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\Controllers\\ProductsController .cs",
               "RelativeToolTip": "Controllers\\ProductsController .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

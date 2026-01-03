@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Zb0YjnRQAi0=",
+  "dgSpecHash": "2onNroTxcZo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admins\\Downloads\\ProductApi\\ProductApi.csproj",
+  "projectFilePath": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\ProductApi\\ProductApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admins\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Admins\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

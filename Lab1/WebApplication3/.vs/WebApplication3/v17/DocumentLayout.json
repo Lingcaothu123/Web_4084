@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\wwwroot\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\webapplication3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\webapplication3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
@@ -89,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|c:\\users\\admins\\videos\\web_linh4084\\lab1\\webapplication3\\webapplication3\\wwwroot\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4A94A091-6185-4994-AA96-941E4F622D04}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\wwwroot\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,8 +102,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "product.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\wwwroot\\product.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\product.cshtml",
+              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\wwwroot\\product.cshtml",
+              "RelativeToolTip": "WebApplication3\\wwwroot\\product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-29T05:13:36.086Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -126,20 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "product.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\wwwroot\\product.cshtml",
-              "RelativeDocumentMoniker": "WebApplication3\\wwwroot\\product.cshtml",
-              "ToolTip": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\wwwroot\\product.cshtml",
-              "RelativeToolTip": "WebApplication3\\wwwroot\\product.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-29T05:13:36.086Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WebApplication3",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
               "RelativeDocumentMoniker": "WebApplication3\\WebApplication3.csproj",
@@ -151,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Models\\ErrorViewModel.cs",
@@ -159,12 +160,11 @@
               "RelativeToolTip": "WebApplication3\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T09:27:05.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-01T09:27:05.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Category.cs.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Category.cs.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Models\\Category.cs.cs",
@@ -176,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Car.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Models\\Car.cs",
@@ -188,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Brand.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Brand.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Models\\Brand.cs",
@@ -200,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Models\\ApplicationDbContext.cs",
@@ -212,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "BrandController.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Controllers\\BrandController.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\BrandController.cs",
@@ -224,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
@@ -232,12 +232,11 @@
               "RelativeToolTip": "WebApplication3\\Program.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAuwDwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T04:58:55.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-01T04:58:55.278Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Product.cs.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Models\\Product.cs.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Models\\Product.cs.cs",
@@ -249,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "CreateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\CreateProductDto.cs",
               "RelativeDocumentMoniker": "WebApplication3\\DTO\\CreateProductDto.cs",
@@ -261,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CategoryController .cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Controllers\\CategoryController .cs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\CategoryController .cs",
@@ -273,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CategoryRepository .cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Repositories\\CategoryRepository .cs",
               "RelativeDocumentMoniker": "WebApplication3\\Repositories\\CategoryRepository .cs",
@@ -285,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BrandService.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\BrandService.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Service\\BrandService.cs",
@@ -297,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\CategoryDto.cs",
               "RelativeDocumentMoniker": "WebApplication3\\DTO\\CategoryDto.cs",
@@ -309,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "BrandDto.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\BrandDto.cs",
               "RelativeDocumentMoniker": "WebApplication3\\DTO\\BrandDto.cs",
@@ -321,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IBrandService.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\IBrandService.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Service\\IBrandService.cs",
@@ -333,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\CategoryService.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Service\\CategoryService.cs",
@@ -345,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Service\\ICategoryService.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Service\\ICategoryService.cs",
@@ -357,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Data\\DbInitializer.cs",
@@ -369,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\DTO\\ProductDto.cs",
               "RelativeDocumentMoniker": "WebApplication3\\DTO\\ProductDto.cs",
@@ -381,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Repositories\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Repositories\\ICategoryRepository.cs",
@@ -393,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Admins\\Videos\\Web_Linh4084\\Lab1\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "WebApplication3\\Controllers\\HomeController.cs",

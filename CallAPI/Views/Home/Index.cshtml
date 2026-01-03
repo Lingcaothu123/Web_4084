@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="brandForm">
+    <h2>Thêm hãng xe mới</h2>
+    <form id="addBrandForm">
+        <input type="hidden" id="brandId">
+
+        <div class="mb-3">
+            <label for="brandName" class="form-label">Tên hãng</label>
+            <input type="text" class="form-control" id="brandName" required>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Lưu</button>
+        <button type="button" class="btn btn-secondary" onclick="resetForm()">Hủy</button>
+    </form>
+</div>
+
+<!-- Thông báo -->
+<div id="notification"></div>
+
+<!-- Nơi hiển thị danh sách brand -->
+<div id="brandList"></div>
